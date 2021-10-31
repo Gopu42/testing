@@ -7,3 +7,4 @@ def sum(a,b):
     return a+a
 
 print('sum func')
+print('testing')
