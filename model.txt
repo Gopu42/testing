@@ -1,1 +1,5 @@
 print('All models')
+
+def model1():
+print('model 1)
+
