@@ -1,5 +1,6 @@
 print('All models')
 
 def model1():
-print('model 5)
+print('model 51)
+
 
