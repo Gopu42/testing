@@ -2,5 +2,5 @@ print('All models')
 
 def model1():
 print('model 51)
-
+print
 
